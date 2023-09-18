@@ -1,0 +1,88 @@
+body, h1, p {
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+  }
+ 
+  a:active, a:visited {
+    color: #fff;
+    }
+ 
+    li{
+        color: #fdfdfd;
+        margin: 10px 0;
+     
+        text-align:left;
+      }
+ 
+  body {
+    font-family: "Times New Roman", Times, serif;
+    background-color: #948fcf; /* Dark background color */
+    color: #000000; /* Blue text color */
+    text-align: left; /* Center-align text */
+  }
+ 
+  header {
+    background-color: #4b0361; /* Black header background color */
+    padding: 20px 0;
+  }
+ 
+  h1 {
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 3px; /* Increase letter spacing for a modern look */
+    color: #eff4f5; /* Blue header text color */
+    margin-bottom: 20px;
+    text-align :center;
+  }
+  h2{
+    text-align: left;
+  }
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+ 
+  main {
+    margin-bottom: 50px;
+  }
+ 
+  .content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: rgba(0, 0, 0, 0.8); /* Semi-transparent black background for content */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 204, 255, 0.2); /* High-tech blueish shadow effect */
+  }
+ 
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #00ccff; /* Blue button color */
+    color: #fff; /* White button text color */
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: transform 0.2s ease-in-out;
+  }
+ 
+  .btn:hover {
+    transform: scale(1.1); /* Slight zoom-in effect on hover */
+  }
+ 
+  footer {
+    background-color: #000;
+    color: #00ccff;
+    text-align: center;
+    padding: 10px;
+  }
+
+  body{
+    text-align: center;
+  }
+ 
+
